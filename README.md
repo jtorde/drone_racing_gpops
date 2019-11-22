@@ -1,6 +1,6 @@
 
 
-# Adaptive Control for UAVs  #
+# Optimal Control for UAVs using GPOPS-II  #
 
 Author: Jesus Tordesillas
 
