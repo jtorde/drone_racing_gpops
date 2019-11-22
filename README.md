@@ -9,7 +9,7 @@ This repo has the code to solve the optimal control problem to obtain a trajecto
 ```
 @mastersthesis{tordesillas2019trajectory,
   title={Trajectory planner for agile flights in unknown environments},
-  author={Tordesillas Torres, Jes{\'u}s},
+  author={Tordesillas Torres, Jesus},
   year={2019},
   school={Massachusetts Institute of Technology}
 }
