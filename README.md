@@ -28,4 +28,5 @@ git clone https://github.com/jtorde/drone_racing_gpops
 and execute the file `src/main.m` in MATLAB
 
 
-
+### License
+Academic license - for non-commercial use only
