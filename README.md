@@ -13,7 +13,7 @@ A video is available [here](https://www.youtube.com/watch?v=-YY_0Ib-o_4):
 ## Citation
 When using this code, please cite the following thesis:
 
-```
+```bibtex
 @mastersthesis{tordesillas2019trajectory,
   title={Trajectory planner for agile flights in unknown environments},
   author={Tordesillas Torres, Jesus},
