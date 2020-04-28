@@ -6,6 +6,13 @@ Author: Jesus Tordesillas
 
 This repo has the code to solve the optimal control problem to obtain a trajectory for a quadrotor passing through several predefined gates. A description of the approach can be found [here](https://dspace.mit.edu/handle/1721.1/122420):
 
+A video is available [here](https://www.youtube.com/watch?v=-YY_0Ib-o_4):
+
+[![Optimal Path Planning for a UAV using GPOPS-II](./imgs/environment.png)](https://www.youtube.com/watch?v=-YY_0Ib-o_4 "Optimal Path Planning for a UAV using GPOPS-II") 
+
+##Citation
+When using this code, please cite the following thesis:
+
 ```
 @mastersthesis{tordesillas2019trajectory,
   title={Trajectory planner for agile flights in unknown environments},
@@ -15,9 +22,7 @@ This repo has the code to solve the optimal control problem to obtain a trajecto
 }
 ```
 
-A video is available [here](https://www.youtube.com/watch?v=-YY_0Ib-o_4):
 
-[![Optimal Path Planning for a UAV using GPOPS-II](./imgs/environment.png)](https://www.youtube.com/watch?v=-YY_0Ib-o_4 "Optimal Path Planning for a UAV using GPOPS-II") 
 
 
 ### Instructions:
