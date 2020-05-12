@@ -11,7 +11,7 @@ A video is available [here](https://www.youtube.com/watch?v=-YY_0Ib-o_4):
 [![Optimal Path Planning for a UAV using GPOPS-II](./imgs/environment.png)](https://www.youtube.com/watch?v=-YY_0Ib-o_4 "Optimal Path Planning for a UAV using GPOPS-II") 
 
 ## Citation
-When using this code, please cite the following thesis:
+When using this code, please cite the following thesis ([pdf](https://dspace.mit.edu/handle/1721.1/122420)):
 
 ```bibtex
 @mastersthesis{tordesillas2019trajectory,
