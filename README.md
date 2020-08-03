@@ -8,7 +8,7 @@ This repo has the code to solve the optimal control problem to obtain a trajecto
 
 A video is available [here](https://www.youtube.com/watch?v=-YY_0Ib-o_4):
 
-[![Optimal Path Planning for a UAV using GPOPS-II](./imgs/environment.png)](https://www.youtube.com/watch?v=-YY_0Ib-o_4 "Optimal Path Planning for a UAV using GPOPS-II") 
+[![Optimal Path Planning for a UAV using GPOPS-II](./imgs/racing.gif)](https://www.youtube.com/watch?v=-YY_0Ib-o_4 "Optimal Path Planning for a UAV using GPOPS-II") 
 
 ## Citation
 When using this code, please cite the following thesis ([pdf](https://dspace.mit.edu/handle/1721.1/122420)):
